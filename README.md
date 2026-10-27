@@ -30,6 +30,11 @@ and exploring new technologies.
 - Practicing Git version control and SSH authentication
   through my cybersecurity coursework.
 
+
+### A Note on My Current Projects
+
+Some of my favorite hands-on projects bring together software, hardware, and creative work. I'm developing **Circuit Exchange**, an in-progress hardware marketplace prototype focused on more detailed listings and safer, more transparent buying and selling. I also built a **multi-GPU workstation** to run local AI models using Ollama and LM Studio, developed a **Python/Docker browser application** and **ComfyUI workflows**, and worked on **Blender/DAZ Studio** renders and models for animation and 3D printing. These are ongoing personal projects that help me turn what I'm learning into practical experience.
+
 ## 🎯 Interests
 
 - Cybersecurity and ethical hacking
